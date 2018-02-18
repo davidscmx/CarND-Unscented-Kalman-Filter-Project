@@ -50,7 +50,7 @@ UKF::UKF() {
   /**
   TODO:
 
-  Complete the initialization. See ukf.h for other member properties.
+  Complete the initialization. See ukf.h for other member properties. Is it ?
 
   Hint: one or more values initialized above might be wildly off...
   */
